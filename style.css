@@ -15,7 +15,7 @@
 	left: 0px;
 	background-color: darkred;
 	padding: 350px 100px;
-	box-shadow: 0px 0px 4px;
+	box-shadow: 5px 0px 20px;
 	z-index: 2;
 
 }
@@ -27,7 +27,7 @@
 	left: 1100px;
 	background-color: darkred;
 	padding: 350px 90px;
-	box-shadow: 0px 0px 4px;
+	box-shadow: -5px 0px 20px;
 	z-index: 2;
 
 }
@@ -38,7 +38,7 @@
 	left: 20px;
 	padding: 350px 640px;
 	box-shadow: 2px 2px 2px black;
-	background-image:url(fond5.gif);
+	background-image:url(fond4.gif);
 	background-position: bottom;
 	background-size: 75%;
 	z-index: 0;
@@ -47,7 +47,7 @@
 .exp {
 	position: absolute;
 	background-color: darkred;
-	box-shadow: 0px 0px 4px;
+	box-shadow: 3px 5px 20px;
 	top: 20px;
 	left: 200px;
 	padding: 1px 20px;
@@ -65,7 +65,7 @@
 .formation{
 	position: absolute;
 	background-color: darkred;
-	box-shadow: 0px 0px 4px;
+	box-shadow: -5px 5px 20px;
 	top: 20px;
 	left: 910px;
 	padding: 0px 20px;
@@ -75,7 +75,7 @@
 .loisir{
 	position: absolute;
 	background-color: darkred;
-	box-shadow: 0px 0px 4px;
+	box-shadow: -5px 5px 20px;
 	top: 300px;
 	left: 810px;
 	padding: 0px 20px;
