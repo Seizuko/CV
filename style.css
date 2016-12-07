@@ -15,7 +15,7 @@
 	left: 0px;
 	background-color: darkred;
 	padding: 350px 100px;
-	box-shadow: 5px 0px 20px;
+	box-shadow: 5px 5px 20px;
 	z-index: 2;
 
 }
@@ -27,7 +27,7 @@
 	left: 1100px;
 	background-color: darkred;
 	padding: 350px 90px;
-	box-shadow: -5px 0px 20px;
+	box-shadow: -5px 5px 20px;
 	z-index: 2;
 
 }
